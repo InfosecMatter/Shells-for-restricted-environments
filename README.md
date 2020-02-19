@@ -4,7 +4,7 @@
 
  Minips is a custom minimalist PowerShell interpreter to bypass AppLocker restrictions, GPO or SRP restrictions preventing from running powershell.exe. There are 2 identical versions available:
  
-### mini.cs
+### 1. minips.cs
 
 Compile with **csc.exe** like this:
 ```
@@ -16,7 +16,7 @@ csc.exe /unsafe /reference:"C:\path\to\System.Management.Automation.dll" /out:C:
 ```
 Then run the produced minips.exe executable to spawn the shell.
 
-### mini.xml
+### 2. minips.xml
 
 Simply start with **msbuild.exe** like this:
 ```
