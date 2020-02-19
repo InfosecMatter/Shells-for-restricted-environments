@@ -8,7 +8,7 @@ https://www.infosecmatter.com/19-ways-to-bypass-software-restrictions-and-spawn-
  
 ### minips.cs
 
-Compile with csc.exe*like this:
+Compile with csc.exe like this:
 ```
 # Go to the latest .NET version folder, e.g.:
 cd C:\Windows\Microsoft.NET\Framework64\v4.0.30319
