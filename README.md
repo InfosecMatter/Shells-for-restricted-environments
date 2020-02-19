@@ -45,4 +45,4 @@ The pack contains the following shells:
 
 The archive is password protected in order to evade antivirus detection.
 
-More information including the password can be found [here](https://www.infosecmatter.com/19-ways-to-bypass-software-restrictions-and-spawn-a-shell/).
+More information including the password can be found [here](https://www.infosecmatter.com/19-ways-to-bypass-software-restrictions-and-spawn-a-shell/#bonus).
