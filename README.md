@@ -1,5 +1,7 @@
 # Shells for restricted environments
 
+https://www.infosecmatter.com/19-ways-to-bypass-software-restrictions-and-spawn-a-shell/
+
 ## Minips
 
  Minips is a custom minimalist PowerShell interpreter to bypass AppLocker restrictions, GPO or SRP restrictions preventing from running powershell.exe. There are 2 identical versions available:
