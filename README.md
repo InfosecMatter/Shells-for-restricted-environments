@@ -23,7 +23,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe c:\path\to\minips.xm
 
 ## shell-pack.zip
 
-Contains password protected archive of compiled and ready to use shells for bypassing AppLocker, GPO or SRP restrictions preventing from running Command Prompt (cmd.exe) or PowerShell interpreter (powershell.exe).
+Contains compiled and ready to use shells for bypassing AppLocker, GPO or SRP restrictions preventing from running Command Prompt (cmd.exe) or PowerShell interpreter (powershell.exe).
 
 The pack contains the following shells:
 * [cmd-dll](https://blog.didierstevens.com/2010/02/04/cmd-dll/)
